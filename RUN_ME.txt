@@ -1,0 +1,2 @@
+java Pacman
+PAUSE
